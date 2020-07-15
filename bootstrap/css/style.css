@@ -1,0 +1,12 @@
+.btn-info{
+    background: linear-gradient(45deg,darkslategray,deepskyblue);
+}
+.btn-primary{
+    background: linear-gradient(45deg,darkslategray,blue);
+}
+.btn-secondary{
+    background: linear-gradient(45deg,darkslategray,purple);
+}
+.btn-success{
+    background: linear-gradient(45deg,darkslategray,greenyellow);
+}
